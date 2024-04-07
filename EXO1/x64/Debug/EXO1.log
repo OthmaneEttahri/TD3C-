@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Point3D.cpp
+C:\Users\yanni\OneDrive\Bureau\cours\informatique\C++\TDTP\TD3\EXO1\Point3D.cpp(52,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+  EXO1.vcxproj -> C:\Users\yanni\OneDrive\Bureau\cours\informatique\C++\TDTP\TD3\EXO1\x64\Debug\EXO1.exe
